@@ -10,4 +10,4 @@ after creating the app i got the api key and api_endpoint_url from the overview 
 
 with the keys i am calling the api on the image which is present in the web
 
-using the api i got the description tags, meta data of the image and descriptive analytics of the character like male ,age etc...
+using the api i got the description tags, meta data of the image and descriptive analytics of the character like male ,age etc.. refer to the images attached 
